@@ -1,123 +1,64 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Currículo - Lilton Magalhães</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f9f9f9;
-      color: #333;
-      line-height: 1.6;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    h1 {
-      border-bottom: 2px solid #2c3e50;
-      padding-bottom: 5px;
-    }
-    section {
-      margin-bottom: 25px;
-    }
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
-    ul li::before {
-      content: "• ";
-      color: #2c3e50;
-      font-weight: bold;
-    }
-    .contact {
-      margin-bottom: 20px;
-    }
-    .contact p {
-      margin: 5px 0;
-    }
-    .highlight {
-      font-weight: bold;
-      color: #2c3e50;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio - Lilton Magalhães</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div class="container">
+        <header class="main-header">
+            <h1>Lilton Magalhães</h1>
+            <p class="subtitle">Desenvolvedor Full Stack | ADS</p>
+        </header>
 
-  <h1>Lilton Magalhães</h1>
+        <hr class="divider">
 
-  <div class="contact">
-    <p>📍 Rio de Janeiro, RJ – Brasil</p>
-    <p>✉️ <span class="highlight">E-mail:</span> liltonmagalhaes@hotmail.com</p>
-    <p>📱 <span class="highlight">Telefone/WhatsApp:</span> +55 22 98834-6411</p>
-    <p>🔗 <span class="highlight">LinkedIn:</span> <a href="https://www.linkedin.com/in/lilton-magalhaes" target="_blank">linkedin.com/in/lilton-magalhaes</a></p>
-    <p>💻 <span class="highlight">GitHub:</span> <a href="https://github.com/LiltonMagalhaes" target="_blank">github.com/LiltonMagalhaes</a></p>
-  </div>
+        <section class="about-section">
+            <div class="about-container">
+                <div class="photo-column">
+                    <img src="eu.webp" alt="Lilton Magalhães" class="profile-photo">
+                </div>
+                <div class="text-column">
+                    <h2>Minha Jornada: Do Lógico ao Código Moderno</h2>
+                    <p>Minha paixão pela tecnologia começou na década de 80, imerso na lógica clássica. Após um hiato estratégico na segurança eletrônica, o amor pelo desenvolvimento me trouxe de volta.</p>
+                    <p>Aos 54 anos, mergulho no ecossistema de <strong>Java (Spring Boot)</strong> e <strong>React</strong>, unindo maturidade e inovação.</p>
+                    
+                    <div class="actions">
+                        <a href="https://github.com/LiltonMagalhaes" target="_blank" class="btn-primary">GitHub</a>
+                        <a href="https://www.linkedin.com/in/lilton-magalhaes/" target="_blank" class="btn-secondary">LinkedIn</a>
+                    </div>
+                </div>
+            </div>
+        </section>
 
-  <section>
-    <h2>🎯 Objetivo Profissional</h2>
-    <p>Busco minha primeira oportunidade como <strong>Desenvolvedor Júnior</strong>, com foco em C#, .NET e Java, aplicando também conhecimentos em Python e tecnologias web. Tenho perfil autodidata, facilidade de aprendizado e grande interesse em contribuir com soluções criativas e funcionais para projetos web e desktop. Disponível para trabalho remoto, com infraestrutura própria (computador de alto desempenho e internet de 650 Mb).</p>
-  </section>
+        <hr class="divider">
 
-  <section>
-    <h2>📌 Resumo Profissional</h2>
-    <ul>
-      <li>Estudante de Análise e Desenvolvimento de Sistemas (ADS) – Unicesumar.</li>
-      <li>Experiência prática em projetos pessoais e acadêmicos.</li>
-      <li>Atualmente desenvolvendo, em carreira solo, um <strong>SaaS de gestão unificado</strong> com módulos de clientes, ordens de serviço, dashboards e relatórios.</li>
-      <li>Familiaridade com boas práticas de codificação e versionamento de código (Git/GitHub).</li>
-      <li>Perfil autodidata, com sólida base em programação orientada a objetos.</li>
-    </ul>
-  </section>
+        <section class="expertise">
+            <h2 class="section-title">Tecnologias & Ecossistema</h2>
+            <div class="banner-container">
+                <img src="banner2-stacks.webp" alt="Minhas Stacks" class="banner-img">
+            </div>
+        </section>
 
-  <section>
-    <h2>🎓 Formação Acadêmica</h2>
-    <p><strong>Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)</strong><br>
-    Faculdade Unicesumar – Em andamento</p>
-  </section>
+        <hr class="divider">
 
-  <section>
-    <h2>💻 Habilidades Técnicas</h2>
-    <ul>
-      <li><strong>Linguagens:</strong> C#, Java, Python, VB, JavaScript</li>
-      <li><strong>Frameworks:</strong> .NET, MVC/MVVM</li>
-      <li><strong>Banco de Dados:</strong> SQL Server, MySQL, NoSQL</li>
-      <li><strong>Web:</strong> HTML5, CSS3, JavaScript</li>
-      <li><strong>Ferramentas:</strong> Git, GitHub, Visual Studio</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>🛠 Projetos Pessoais</h2>
-    <ul>
-      <li><strong>SaaS de Gestão Unificado</strong> – sistema em desenvolvimento com módulos de gerenciamento de clientes, ordens de serviço, dashboards e relatórios.</li>
-      <li><strong>Sistema de Cadastro em C#/.NET</strong> – CRUD integrado com SQL Server.</li>
-      <li><strong>Automação em Python</strong> – scripts para automatizar tarefas repetitivas.</li>
-      <li><strong>Portfólio Web (GitHub Pages)</strong> – site pessoal em HTML, CSS e JS.</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>📚 Cursos e Certificações</h2>
-    <ul>
-      <li>Lógica de Programação – IFRS (30h)</li>
-      <li>Lógica de Programação – IFRS (20h)</li>
-      <li>HTML: Introdução ao Desenvolvimento de Páginas Web – IFRS (40h)</li>
-      <li>CSS: Folhas de Estilo – IFRS (30h)</li>
-      <li>JavaScript – IFRS (30h)</li>
-      <li>Fundamentos de Java – curso livre</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>📌 Observações</h2>
-    <ul>
-      <li>Disponível para trabalho remoto.</li>
-      <li>Infraestrutura própria: computador de alto desempenho e internet de 650 Mb.</li>
-    </ul>
-  </section>
-
+        <section class="projects">
+            <h2 class="section-title">Projetos em Destaque</h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <h3>Rio Elite Cars</h3>
+                    <p>Site premium para agência de veículos.</p>
+                    <a href="https://rio-elite-cars.vercel.app/" target="_blank">Visitar Projeto</a>
+                </div>
+                <div class="project-card">
+                    <h3>Célia Recriar</h3>
+                    <p>Landing page responsiva para artesanato.</p>
+                    <a href="https://celia-recriar.vercel.app/" target="_blank">Visitar Projeto</a>
+                </div>
+            </div>
+        </section>
+    </div>
 </body>
 </html>
-

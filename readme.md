@@ -1,53 +1,44 @@
-# Currículo – Lilton Magalhães
+# 🚀 Portfólio Profissional | Lilton Magalhães
 
-Este repositório contém meu currículo em formato **HTML**, publicado via **GitHub Pages**.  
-O objetivo é apresentar minha trajetória acadêmica, habilidades técnicas e projetos pessoais de forma clara e acessível.
-
-## 🔗 Acesse meu currículo online
-[Currículo Online](https://liltonmagalhaes.github.io)
+Bem-vindo ao meu espaço de exposição técnica. Aqui apresento minha transição de carreira e os projetos que desenvolvo como Desenvolvedor Full Stack.
 
 ---
 
-## 🎯 Objetivo Profissional
-Busco minha primeira oportunidade como **Desenvolvedor Júnior**, com foco em C#, .NET e Java, aplicando também conhecimentos em Python e tecnologias web. Tenho perfil autodidata, facilidade de aprendizado e grande interesse em contribuir com soluções criativas e funcionais para projetos web e desktop.
+## 👨‍💻 Sobre Mim
+Minha jornada tecnológica começou na década de 80, fundamentada na lógica clássica. Após uma sólida trajetória na área de eletrotécnica e segurança eletrônica — onde desenvolvi um raciocínio analítico apurado para sistemas complexos — retornei ao meu primeiro amor: o desenvolvimento de software.
+
+Atualmente, aos 54 anos, estou imerso no curso de **Análise e Desenvolvimento de Sistemas (ADS)**, combinando a maturidade profissional de décadas com o domínio das stacks mais modernas do mercado.
 
 ---
 
-## 🛠 Tecnologias & Skills
+## 🛠️ Expertise Técnica
+Minha stack principal é focada em soluções robustas e escaláveis:
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+* **Backend:** Java 17+, Spring Boot, Spring Security (JWT), Hibernate/JPA.
+* **Frontend:** React.js, Vite, Hooks, Context API.
+* **Banco de Dados:** MariaDB, PostgreSQL, Modelagem Relacional.
+* **Ambiente & DevOps:** Linux (Ubuntu), Git/GitHub, CI/CD básico.
 
 ---
 
-## 📌 Conteúdo do Currículo
-- **Resumo Profissional**  
-- **Formação Acadêmica**  
-- **Habilidades Técnicas**  
-- **Projetos Pessoais**  
-- **Cursos e Certificações**  
-- **Observações (Disponibilidade para remoto)**  
+## 📂 Projetos em Destaque
+
+### [SaaS Multi-Tenant de Gestão](https://github.com/LiltonMagalhaes)
+Sistema para empresas de manutenção com isolamento de dados, desenvolvido em **Spring Boot** e **React**. Possui troca dinâmica de temas (Theming).
+
+### [Rio Elite Cars](https://rio-elite-cars.vercel.app/)
+Landing page premium focada em performance e UX/UI para o setor automotivo.
+
+### [Ateliê Célia Recriar](https://celia-recriar.vercel.app/)
+Projeto responsivo para exposição de artesanato, priorizando acessibilidade e design limpo.
 
 ---
 
-## 💻 Projetos em destaque
-- **SaaS de Gestão Unificado** – sistema em desenvolvimento com módulos de clientes, ordens de serviço, dashboards e relatórios.  
-- **Sistema de Cadastro em C#/.NET** – CRUD integrado com SQL Server.  
-- **Automação em Python** – scripts para automatizar tarefas repetitivas.  
-- **Portfólio Web (GitHub Pages)** – site pessoal em HTML, CSS e JS.  
+## 📬 Vamos Conversar?
+Estou em busca de oportunidades como **Desenvolvedor Júnior** onde eu possa aplicar minha capacidade de resolução de problemas e minha paixão por código limpo.
+
+* **LinkedIn:** [lilton-magalhaes](https://www.linkedin.com/in/lilton-magalhaes/)
+* **GitHub:** [@LiltonMagalhaes](https://github.com/LiltonMagalhaes)
 
 ---
-
-## 📞 Contato
-- ✉️ E-mail: liltonmagalhaes@hotmail.com  
-- 📱 WhatsApp: +55 22 98834-6411  
-- 🔗 LinkedIn: [linkedin.com/in/lilton-magalhaes](https://www.linkedin.com/in/lilton-magalhaes)  
-- 💻 GitHub: [github.com/LiltonMagalhaes](https://github.com/LiltonMagalhaes)  
+*Desenvolvido com foco em lógica, precisão e modernidade.*
